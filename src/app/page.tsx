@@ -95,7 +95,7 @@ export default function Landing() {
             width={16}
             height={16}
           />
-          Go to nextjs.org →
+          Go to nextjs.org →→→→
         </a>
       </footer>
     </div>
